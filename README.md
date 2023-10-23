@@ -1,8 +1,8 @@
-[Nome do Projeto]
-[imagem ilustrativa do projeto]
-Descrição
-Breve descrição do que é o projeto e qual problema ele pretende
-resolver.
+**Banco de Dados - Universidade**
+
+**Descrição**
+
+Implementação de um Banco de Dados para uma universidade
 Tabela de Conteúdos
 1. Instalação
 2. Uso
