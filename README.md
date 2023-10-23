@@ -1,5 +1,7 @@
 # Banco de Dados - Universidade
 
+![Imagem](https://github.com/andrevoribeiro/Projeto-Bando-de-Dados-Universidade/blob/main/universidade.png)
+
 ## Descrição
 
 Implementação de um Banco de Dados para uma universidade
