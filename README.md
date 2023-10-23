@@ -1,6 +1,6 @@
 # Banco de Dados - Universidade
 
-**Descrição**
+## Descrição
 
 Implementação de um Banco de Dados para uma universidade
 Tabela de Conteúdos
