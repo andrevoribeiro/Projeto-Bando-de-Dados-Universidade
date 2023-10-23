@@ -3,9 +3,11 @@
 ## Descrição
 
 Implementação de um Banco de Dados para uma universidade
-Tabela de Conteúdos
+
+## Informações
+
 1. Instalação
-2. Uso
+2. Nas campus das Universidades
 3. Contribuição
 4. Licença
 5. Contato
